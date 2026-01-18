@@ -101,14 +101,8 @@ A comprehensive desktop application built with Java Swing for efficient library 
 ```
 Library-Management-System/
 │
-├── src/
-│   └── com/
+── com/
 │       └── lms/
-│           ├── model/              # Entity classes
-│           │   ├── Book.java
-│           │   ├── Member.java
-│           │   └── Loan.java
-│           │
 │           ├── service/            # Business logic
 │           │   ├── LibraryManager.java
 │           │   └── CSVFileHandler.java
@@ -248,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Matric No: 202303004
 - Department: Computer Software Engineer
 - Institution: Lufem College of Technology, Agege, Lagos
-- GitHub: [@alongesodig](https://github.com/alongesodig)
+- GitHub: [@AlongeSodig](https://github.com/Ayokule)
 
 **Supervisor**: Mr. Agbolade Odunsami
 
@@ -263,14 +257,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/alongesodig/Library-Management-System/issues) page
+1. Check the [Issues](https://github.com/Ayokule/Library-Management-System/issues) page
 2. Create a new issue with detailed description
 3. Include error messages and screenshots if applicable
 
 ## 📈 Project Statistics
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/alongesodig/Library-Management-System)
-![GitHub last commit](https://img.shields.io/github/last-commit/alongesodig/Library-Management-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ayokule/Library-Management-System)
 ![GitHub issues](https://img.shields.io/github/issues/alongesodig/Library-Management-System)
 
 ---
@@ -279,6 +273,6 @@ If you encounter any issues or have questions:
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Alonge Sodiq Ayomide](https://github.com/alongesodig)
+Made with ❤️ by [Alonge Sodiq Ayomide](https://github.com/Ayokule)
 
 </div>
