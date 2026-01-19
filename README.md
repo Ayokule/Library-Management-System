@@ -1,7 +1,7 @@
 # 📚 Library Management System
 
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A comprehensive desktop application built with Java Swing for efficient library management. This system streamlines the process of managing books, members, and loan transactions with an intuitive graphical interface and robust data handling.
@@ -232,9 +232,6 @@ Contributions are welcome! Here's how you can help:
 - [ ] Book reservation system
 - [ ] Integration with library catalog APIs
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -263,9 +260,9 @@ If you encounter any issues or have questions:
 
 ## 📈 Project Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/alongesodig/Library-Management-System)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ayokule/Library-Management-System)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ayokule/Library-Management-System)
-![GitHub issues](https://img.shields.io/github/issues/alongesodig/Library-Management-System)
+![GitHub issues](https://img.shields.io/github/issues/Ayokule/Library-Management-System)
 
 ---
 
