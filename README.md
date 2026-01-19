@@ -239,7 +239,7 @@ Contributions are welcome! Here's how you can help:
 - Matric No: 202303004
 - Department: Computer Software Engineer
 - Institution: Lufem College of Technology, Agege, Lagos
-- GitHub: [@AlongeSodig](https://github.com/Ayokule)
+- GitHub: [@AlongeSodiq](https://github.com/Ayokule)
 
 **Supervisor**: Mr. Agbolade Odunsami
 
